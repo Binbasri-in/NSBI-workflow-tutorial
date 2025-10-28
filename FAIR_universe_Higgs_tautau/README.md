@@ -12,14 +12,23 @@ This notebook is to download the FAIR Universe data and store it in the form of 
 
 2. [`Preselection_withNN.ipynb`](./Preselection_withNN.ipynb) 
 
+This notebook trains a multi-class classification neural network for signal/control region definitions.
+
 3. [`DataPreprocessing.ipynb`](./DataPreprocessing.ipynb)
+
+This notebook defines selections and preselects events in the signal and control regions.
 
 4. [`Neural_Likelihood_Ratio_Estimation.ipynb`](./Neural_Likelihood_Ratio_Estimation.ipynb)
 
+This notebook is used to train the desnity ratios to be used for modeling the negative log-likelihood ratios for inference.
+
 5. [`Systematic_Uncertainty_Estimation.ipynb`](./Systematic_Uncertainty_Estimation.ipynb)
 
+This notebook is used to train the density ratios associated with the systematic uncertainty model, then used for modeling the negative log-likelihood ratios for inference.
+
 6. [`Parameter_Fitting_with_Systematics.ipynb`](./Parameter_Fitting_with_Systematics.ipynb)
-   
+
+This notebook is used to create a workspace object and perform parameter fitting with the NSBI model
 
 
 Measurements at the LHC
