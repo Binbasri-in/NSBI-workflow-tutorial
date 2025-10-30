@@ -1,0 +1,52 @@
+total 797376
+-rw-r--r--  1 jovyan jovyan   7733408 Oct 30 09:49 asimov_weights.npy
+-rw-r--r--  1 jovyan jovyan  63868393 Oct 30 09:49 dataset_Asimov.root
+-rw-r--r--  1 jovyan jovyan 149037866 Oct 30 09:49 dataset_JES_dn.root
+-rw-r--r--  1 jovyan jovyan 148920769 Oct 30 09:49 dataset_JES_up.root
+-rw-r--r--  1 jovyan jovyan 148947407 Oct 30 09:49 dataset_TES_dn.root
+-rw-r--r--  1 jovyan jovyan 149013641 Oct 30 09:49 dataset_TES_up.root
+-rw-r--r--  1 jovyan jovyan 148967207 Oct 30 09:49 dataset_nominal.root
+drwxr-xr-x 12 jovyan jovyan      4096 Oct 30 09:49 output_training_nominal
+drwxr-xr-x 38 jovyan jovyan      4096 Oct 30 09:49 output_training_systematics
+drwxr-xr-x  2 jovyan jovyan        68 Oct 30 09:49 preselection_model
+
+
+jovyan@jupyter-mohammed--research-2ds---ia-2doctober2025-2dddfn6ucd:~/NSBI-workflow-tutorial/FAIR_universe_Higgs_tautau/saved_datasets/output_training_systematics$ ls -l
+total 0
+drwxr-xr-x 3 jovyan jovyan 109 Oct 30 10:51 output_figures_htautau_JES_Dn
+drwxr-xr-x 2 jovyan jovyan  83 Oct 30 09:49 output_figures_htautau_JES_Up
+drwxr-xr-x 2 jovyan jovyan 118 Oct 30 09:49 output_figures_htautau_TES_Dn
+drwxr-xr-x 2 jovyan jovyan  87 Oct 30 09:49 output_figures_htautau_TES_Up
+drwxr-xr-x 2 jovyan jovyan  52 Oct 30 09:49 output_figures_ttbar_JES_Dn
+drwxr-xr-x 2 jovyan jovyan  52 Oct 30 09:49 output_figures_ttbar_JES_Up
+drwxr-xr-x 2 jovyan jovyan  52 Oct 30 09:49 output_figures_ttbar_TES_Dn
+drwxr-xr-x 2 jovyan jovyan  52 Oct 30 09:49 output_figures_ttbar_TES_Up
+drwxr-xr-x 2 jovyan jovyan  52 Oct 30 09:49 output_figures_ztautau_JES_Dn
+drwxr-xr-x 2 jovyan jovyan  52 Oct 30 09:49 output_figures_ztautau_JES_Up
+drwxr-xr-x 2 jovyan jovyan  52 Oct 30 09:49 output_figures_ztautau_TES_Dn
+drwxr-xr-x 2 jovyan jovyan  52 Oct 30 09:49 output_figures_ztautau_TES_Up
+drwxr-xr-x 2 jovyan jovyan 140 Oct 30 09:49 output_model_params_htautau_JES_Dn
+drwxr-xr-x 2 jovyan jovyan 140 Oct 30 09:49 output_model_params_htautau_JES_Up
+drwxr-xr-x 2 jovyan jovyan 140 Oct 30 09:49 output_model_params_htautau_TES_Dn
+drwxr-xr-x 2 jovyan jovyan 140 Oct 30 09:49 output_model_params_htautau_TES_Up
+drwxr-xr-x 2 jovyan jovyan 140 Oct 30 09:49 output_model_params_ttbar_JES_Dn
+drwxr-xr-x 2 jovyan jovyan 140 Oct 30 09:49 output_model_params_ttbar_JES_Up
+drwxr-xr-x 2 jovyan jovyan 140 Oct 30 09:49 output_model_params_ttbar_TES_Dn
+drwxr-xr-x 2 jovyan jovyan 140 Oct 30 09:49 output_model_params_ttbar_TES_Up
+drwxr-xr-x 2 jovyan jovyan 140 Oct 30 09:49 output_model_params_ztautau_JES_Dn
+drwxr-xr-x 2 jovyan jovyan 140 Oct 30 09:49 output_model_params_ztautau_JES_Up
+drwxr-xr-x 2 jovyan jovyan 140 Oct 30 09:49 output_model_params_ztautau_TES_Dn
+drwxr-xr-x 2 jovyan jovyan 140 Oct 30 09:49 output_model_params_ztautau_TES_Up
+drwxr-xr-x 2 jovyan jovyan  30 Oct 30 09:49 output_ratios_htautau_JES_Dn
+drwxr-xr-x 2 jovyan jovyan  30 Oct 30 09:49 output_ratios_htautau_JES_Up
+drwxr-xr-x 2 jovyan jovyan  30 Oct 30 09:49 output_ratios_htautau_TES_Dn
+drwxr-xr-x 2 jovyan jovyan  30 Oct 30 09:49 output_ratios_htautau_TES_Up
+drwxr-xr-x 2 jovyan jovyan  30 Oct 30 09:49 output_ratios_ttbar_JES_Dn
+drwxr-xr-x 2 jovyan jovyan  30 Oct 30 09:49 output_ratios_ttbar_JES_Up
+drwxr-xr-x 2 jovyan jovyan  30 Oct 30 09:49 output_ratios_ttbar_TES_Dn
+drwxr-xr-x 2 jovyan jovyan  30 Oct 30 09:49 output_ratios_ttbar_TES_Up
+drwxr-xr-x 2 jovyan jovyan  30 Oct 30 09:49 output_ratios_ztautau_JES_Dn
+drwxr-xr-x 2 jovyan jovyan  30 Oct 30 09:49 output_ratios_ztautau_JES_Up
+drwxr-xr-x 2 jovyan jovyan  30 Oct 30 09:49 output_ratios_ztautau_TES_Dn
+drwxr-xr-x 2 jovyan jovyan  30 Oct 30 09:49 output_ratios_ztautau_TES_Up
+
